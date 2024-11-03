@@ -26,7 +26,7 @@
 | Auto connect wallet                                           |        ✅        |
 | Support for pyrogram .session / Query                         |        ✅        |
 
-## [Settings](https://github.com/vanhbakaa/Paws/blob/main/.env-example)
+## [Settings](https://github.com/Mittyadav/Paws/blob/main/.env-example)
 | Settings | Description |
 |----------------------------|:-------------------------------------------------------------------------------------------------------------:|
 | **API_ID / API_HASH**      | Platform data from which to run the Telegram session (default - android)                                      |       
@@ -126,7 +126,7 @@ You can also use arguments for quick start, for example:
 ```
 > pkg update && pkg upgrade -y
 > pkg install python rust git -y
-> git clone https://github.com/vanhbakaa/Paws.git
+> git clone https://github.com/Mittyadav/Paws.git
 > cd Memelabs
 > pip install -r requirements.txt
 > python main.py
